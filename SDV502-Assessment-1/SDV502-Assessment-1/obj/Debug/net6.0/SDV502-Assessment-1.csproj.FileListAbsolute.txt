@@ -1,0 +1,12 @@
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.csproj.AssemblyReference.cache
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.AssemblyInfoInputs.cache
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.AssemblyInfo.cs
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.csproj.CoreCompileInputs.cache
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\bin\Debug\net6.0\SDV502-Assessment-1.deps.json
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\bin\Debug\net6.0\SDV502-Assessment-1.dll
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\bin\Debug\net6.0\SDV502-Assessment-1.pdb
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.dll
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\refint\SDV502-Assessment-1.dll
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\SDV502-Assessment-1.pdb
+C:\Users\minit\source\repos\SDV502-Assessment-1\SDV502-Assessment-1\SDV502-Assessment-1\obj\Debug\net6.0\ref\SDV502-Assessment-1.dll
